@@ -1,3 +1,5 @@
+> 💻 **Looking for the source code?** [Explore the Repository files on GitHub](https://github.com/zyadezatpomodoro-timer)
+
 # ⏳ Pomodoro Focus Timer CLI
 
 A lightweight command-line Pomodoro productivity timer featuring real-time dynamic terminal display.
