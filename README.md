@@ -19,3 +19,4 @@ A lightweight command-line Pomodoro productivity timer featuring real-time dynam
 ## 🚀 How to Run
 ```bash
 python main.py
+      
