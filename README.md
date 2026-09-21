@@ -1,4 +1,4 @@
-> 💻 **Looking for the source code?** [Explore the Repository files on GitHub](https://github.com/zyadezatpomodoro-timer)
+> 💻 **Looking for the source code?** [Explore the Repository files on GitHub](https://github.com/zyadezat/pomodoro-timer)
 
 # ⏳ Pomodoro Focus Timer CLI
 
